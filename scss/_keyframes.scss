@@ -1,0 +1,22 @@
+@keyframes arrowSlide {
+    0% {
+        right: -30px;
+    }
+
+    50% {
+        right: -20px
+    }
+
+    100% {
+        right: -30px;
+    }
+}
+
+@keyframes typing {
+    40%, 60%{
+        left: 75%;
+    }
+    100%{
+        left: 0%;
+    }
+}
